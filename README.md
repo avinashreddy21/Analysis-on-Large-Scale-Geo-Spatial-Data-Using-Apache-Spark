@@ -1,4 +1,4 @@
-# Analysis-on-Large-Scale-Geo-Spatial-Data-Using-Apache-Spark-and-Scala
+# Analysis-on-Large-Scale-Geo-Spatial-Data-Using-Apache-Spark
 
 * This project aims at solving one of the most challenging large-scale data challenges - working on Geo-spacial data using Apache Spark. 
 * We use Geo-spatial statistics to help get significant clusters (or deviations) for the spatial data. Identifying such statistically significant clusters is also very commonly known as ’Hot Spot’ Analysis. 
